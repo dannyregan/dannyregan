@@ -2,7 +2,6 @@
 - 📚 I'm a grad student at Merrimack College
 - 🚀 I'm studying computer science with a concentration in software engineering
 - 🐍 I work in Python, JavaScript, & HTML/CSS
-- 👨‍💻 My favorite frameworks are React & Node
 - 🧠 I'm currently learning MongoDB
 - 📫 Contact me at d.regan@columbia.edu
 
