@@ -2,7 +2,7 @@
 - 📚 I'm a grad student at Merrimack College
 - 🚀 I'm studying computer science with a concentration in software engineering
 - 🐍 I work in Python, JavaScript, Typescript, & HTML/CSS
-- 🧠 I'm currently learning MongoDB
+- 🧠 I'm currently learning to implement MongoDB
 - 📫 Contact me at d.regan@columbia.edu
 
 <!---
