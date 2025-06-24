@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dannyregan
-- 📚 I'm a grad student at Merrimack College
-- 🚀 I'm studying computer science with a concentration in software engineering
-- 🐍 I work in Python, JavaScript, Typescript, & HTML/CSS
-- 🧠 I'm currently learning to implement MongoDB
-- 📫 Contact me at d.regan@columbia.edu
+👋 Hi, I’m @dannyregan
+- 📚 Graduate student at Merrimack College
+- 🚀 Studying computer science, concentrating in software engineering
+- 🐍 Working with Python, C++, SQL, JavaScript, Typescript, & HTML/CSS
+- 🧠 Currently learning how to build social apps for mobile
+- 📫 Reach me at d.regan@columbia.edu
 
 <!---
 dannyregan/dannyregan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
